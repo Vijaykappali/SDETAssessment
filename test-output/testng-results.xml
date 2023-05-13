@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T20:47:36Z" name="Suite" finished-at="2023-05-12T20:47:50Z" duration-ms="13983">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T20:47:36Z" name="Test" finished-at="2023-05-12T20:47:50Z" duration-ms="13983">
+      <class name="SDET_Assessment.SDET_Assessment.FlightBookingAssessment">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:36Z" name="setUp" finished-at="2023-05-12T20:47:42Z" duration-ms="6237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLogo()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:42Z" name="VerifyLogo" finished-at="2023-05-12T20:47:42Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:42Z" name="tearDown" finished-at="2023-05-12T20:47:42Z" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:42Z" name="setUp" finished-at="2023-05-12T20:47:47Z" duration-ms="4429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFlightBooking()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:47Z" name="verifyFlightBooking" finished-at="2023-05-12T20:47:50Z" duration-ms="2920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightBooking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SDET_Assessment.SDET_Assessment.FlightBookingAssessment@1ffaf86]" started-at="2023-05-12T20:47:50Z" name="tearDown" finished-at="2023-05-12T20:47:50Z" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SDET_Assessment.SDET_Assessment.FlightBookingAssessment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
